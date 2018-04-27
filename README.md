@@ -1,4 +1,4 @@
-# Plugin merged into [vTranslit](https://github.com/vipranarayan14/vtranslit)
+# Plugin merged into vTranslit
 
 This plugin is now part of the main project -- [vTranslit](https://github.com/vipranarayan14/vtranslit), in its version 4.0.0. 
 
